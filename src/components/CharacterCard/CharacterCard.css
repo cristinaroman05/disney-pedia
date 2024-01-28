@@ -1,0 +1,14 @@
+.character__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+.character__img{
+    height: 50%;
+}
